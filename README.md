@@ -1,2 +1,3 @@
 # AI Web Scraper with OpenAI-powered Content Parsing
 Developed an advanced web scraping application using Selenium and BeautifulSoup, enabling the extraction and processing of structured data from webpages. Integrated OpenAI's GPT model for parsing and analyzing extracted data to return highly specific information based on user-defined queries. Implemented Streamlit for an intuitive frontend interface, allowing users to input URLs and dynamically view or parse content with a description-based query system. Enhanced usability by managing API rate limits and error handling to ensure smooth, robust performance.
+
